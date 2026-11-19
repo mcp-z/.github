@@ -1,0 +1,10 @@
+{
+  "client_id": "https://www.mcp-z.com/oauth/client-metadata.json",
+  "client_name": "@mcp-z/client",
+  "client_uri": "https://www.mcp-z.com/client/",
+  "application_type": "native",
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "redirect_uris": ["http://127.0.0.1/callback"]
+}
